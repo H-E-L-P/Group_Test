@@ -13,3 +13,4 @@ Things to do:
 *  Add changes `git add successful_collaborators`
 *  Commit changes (with a sensible commit message) `git commit -m 'NAME succesfully added name'`
 *  Push branch to GitHub `git push origin NAME_OF_BRANCH`
+*  Merge branch with the master branch (see http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging for tips)
